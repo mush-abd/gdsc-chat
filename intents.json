@@ -47,10 +47,10 @@
       ]
     },
     {
-      "tag": "payments",
+      "tag": "registration card",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
+        "rp unit",
+        "download my registeration card",
         "Can I pay with Paypal?",
         "Are you cash only?"
       ],
