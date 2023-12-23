@@ -54,7 +54,7 @@
         "registration card for the session"
       ],
       "responses": [
-        "https://ctengg.amu.ac.in/web/index.php"
+        "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
       ]
     },
     {
@@ -158,7 +158,7 @@
         "eec2920 electrical machines lab 2 ii"
       ],
       "responses": [
-        "https://www.collegecanteen.co.in/notes/Computer"
+        "https://www.collegecanteen.co.in/notes/Electrical"
       ]
     },
     {
@@ -209,6 +209,20 @@
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "course structure",
+      "patterns": [
+        "course structure of btech",
+        "syllabus",
+        "first year syllabus",
+        "course structure of barh",
+        "course structure of mtech",
+        "4 year course plan "
+      ],
+      "responses": [
+        "Btech: ctengg.amu.ac.in/web/crs_struct.php?prog=btech \n Be : ctengg.amu.ac.in/web/crs_struct.php?prog=be \n Mtech: ctengg.amu.ac.in/web/crs_struct.php?prog=mtech \n First yr : Microsoft Word - 14_Syllabi_Combined (amu.ac.in)" 
       ]
     },
     {
