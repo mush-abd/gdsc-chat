@@ -79,7 +79,7 @@
         "COC2080 computer architecture",
         "coc2090 software engineering",
         "ela2140 design design and analysis of algorithm",
-        "ela 2900 electronics laboratory",
+        "ela2900 electronics laboratory",
         "coc2920 digital design and simulation lab"
       ],
       "responses": [
@@ -99,7 +99,7 @@
         "cec2140 engineering geology",
         "cec2130 fluid mechanics",
         "ams2110 mathematics",
-        "structural mechanics lab",
+        "cec2940 structural mechanics lab",
         "ezh2910 communication skills lab",
         "ceh2210 construction management 1 i",
         "ses2200 structural mechanics",
@@ -115,28 +115,47 @@
     {
       "tag": "2nd year electronics",
       "patterns": [
-        "second year notes computer science",
-        "computer engineering notes",
-        "cs notes",
-        "cse notes",
-        "ce notes",
-        "2nd year cs",
-        "2nd yr cs notes"
+        "second year notes electronics engineering",
+        "2nd yr electronics engineering notes",
+        "ela notes",
+        "signals and systems",
+        "logic circuits",
+        "higher mathematics 1 i",
+        "higher mathematics 2 ii",
+        "circuit theory",
+        "principles of communication engineering 1",
+        "measurement and instrumentation",
+        "instrumentation lab",
+        "electrical engineering",
+        "electomagnetics",
+        "digital electronics"
       ],
       "responses": [
-        "https://www.collegecanteen.co.in/notes/Computer"
+        "https://drive.google.com/drive/folders/1MKyMYJargg3qDhLz5KbfItccuPW0tnth"
       ]
     },
     {
       "tag": "2nd year electrical",
       "patterns": [
-        "second year notes computer science",
-        "computer engineering notes",
-        "cs notes",
-        "cse notes",
-        "ce notes",
-        "2nd year cs",
-        "2nd yr cs notes"
+        "second year notes electrical enginnering",
+        "2nd year electrical engineering notes",
+        "ele notes",
+        "ams2230 higher mathematics",
+        "aps2050 electrical engineering materials",
+        "eec2110 electrical machines - 1 i",
+        "eec2710 circuit theory",
+        "eec2720 electromagnetic field theory",
+        "eec2730 signals and systems",
+        "ezh2910 communication lab",
+        "electrical machine lab 1 i",
+        "ela2010 logic and digital circuit",
+        "meh2450 engineering economy and management",
+        "eec2120 electrical machines 2 ii",
+        "eec2210 power electronics 1 i",
+        "eec2310 power system engineering ",
+        "eec2510 electrical measurement",
+        "eec2930 circuits and measurements lab",
+        "eec2920 electrical machines lab 2 ii"
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/Computer"
