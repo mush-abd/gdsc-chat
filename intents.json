@@ -131,6 +131,18 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag": "Previous Year Question Paper",
+      "patterns": [
+        "PYQ, PYQs",
+        "Give me previous Year Question paper",
+        "End semester pyq",
+        "exam question papers"
+      ],
+      "responses": [
+        "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
+      ]
     }
   ]
 }
