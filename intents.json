@@ -162,6 +162,35 @@
       ]
     },
     {
+      "tag": "2nd year mechanical",
+      "patterns": [
+        "second year notes mechanical enginnering",
+        "2nd year mechanical engineering notes",
+        "mea notes",
+        "MEC2110 Mechanics of Solids",
+        "MEC2120 Kinematics of Machines",
+        " MEC2310 Fluid Mechanics I ",
+        "MEC2430 Material Science",
+        " MEA2420 Experimental Methods & Analysis",
+        "AMS2310 Higher Mathematics",
+        "MEC2910 Machine Drawing",
+        "MEC2920 Fluids Mechanics Lab ",
+        " MEC2930 Manufacturing Technology Lab-I",
+        "MEC2130 Machine Design I",
+        "MEC2210 Applied Thermodynamics",
+        "MEC2410 Manufacturing Technology-I",
+        " AMS2320 Numerical Methods & Optimization",
+        " EEA2021 Electrical Technology & Control ",
+        " EEA2971 Electrical Technology Lab",
+        " MEC2940 Thermodynamics Lab",
+        "XXXXX Foreign Language",
+        " MECXXX Industrial Training"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
       "tag": "funny",
       "patterns": [
         "Tell me a joke!",
@@ -194,7 +223,23 @@
         "Machine learning notes",
         "introduction to artificial  intelligence notes",
         "2nd year AI",
-        "2nd yr AI notes"
+        "2nd yr AI notes",
+        "AMS2610 Higher Mathematics",
+        "AIC2020 Introduction to Artificial Intelligence",
+        "AIC2040 Principles of Machine Learning",
+        "AIC2060 Data Structure and Algorithm ",
+        "AIC2070 Digital Logic and System Design",
+        " ELA2110 Electronic Devices & Circuits",
+        "EZH2910 Communication Skill Lab",
+        "AIC2910 Data Structure Lab",
+        "AIC2130 Statistical Learning",
+        "AMS2630 Discrete Structures",
+        "AIC2150 AI Tools & Techniques",
+        "AIC2140 Design & Analysis of Algorithm",
+        "ELA2410 Signal & Systems",
+        "AIC2930 Minor Project-I",
+        "ELA2900 Electronics Lab",
+        "AIC2940 Python Programming Laboratory "
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/Computer"
