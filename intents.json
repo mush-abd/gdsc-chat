@@ -32,11 +32,14 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "1st Year Notes",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "1st year",
+        "First Year",
+        "Maths Notes first Year",
+        "First Semester Notes",
+        "Second Semester Notes",
+        "Thermodynamics, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, ELectronics, Mechanics, Environmental"
       ],
       "responses": [
         "We sell coffee and tea",
