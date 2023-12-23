@@ -42,7 +42,7 @@
         "Thermodynamics, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, ELectronics, Mechanics, Environmental"
       ],
       "responses": [
-        "pls enter responses here"
+        "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
       ]
     },
     {
@@ -58,15 +58,18 @@
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "2nd year computer",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "second year notes computer science",
+        "computer engineering notes",
+        "cs notes",
+        "cse notes",
+        "ce notes",
+        "2nd year cs",
+        "2nd yr cs notes"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "https://www.collegecanteen.co.in/notes/Computer"
       ]
     },
     {
