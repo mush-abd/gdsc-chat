@@ -180,6 +180,17 @@
       "responses": [
         "https://www.collegecanteen.co.in/notes/Computer"
       ]
+    },
+    {
+      "tag": "Seating Arrangement",
+      "patterns": [
+        "seating arrangement",
+        "examination hall",
+        "end semester seating plan",
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
     }
   ]
 }
