@@ -51,12 +51,11 @@
       "patterns": [
         "rp unit",
         "download my registeration card",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "where to get my id card",
+        "registration card for the session"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "https://ctengg.amu.ac.in/web/index.php"
       ]
     },
     {
