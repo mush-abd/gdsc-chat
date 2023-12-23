@@ -162,6 +162,21 @@
       "responses": [
         "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
       ]
+    },
+    {
+      "tag": "2nd year AI",
+      "patterns": [
+        "second year notes artificial intelligence",
+        "AI engineering notes",
+        "AI notes",
+        "Machine learning notes",
+        "introduction to artificial  intelligence notes",
+        "2nd year AI",
+        "2nd yr AI notes"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
     }
   ]
 }
