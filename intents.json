@@ -73,6 +73,54 @@
       ]
     },
     {
+      "tag": "2nd year civil",
+      "patterns": [
+        "second year notes civil engineering",
+        "2nd year notes civil engineering notes",
+        "cec2930 fluid mechanic lab notes",
+        "cec2920 geology lab",
+        "cec2910 materials lab",
+        "cec2160 m and c practices",
+        "cec2150 quantity survey",
+        "cec2140 engineering geology",
+        "cec2130 fluid mechanics",
+        "ams2110 mathematics"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
+      "tag": "2nd year electronics",
+      "patterns": [
+        "second year notes computer science",
+        "computer engineering notes",
+        "cs notes",
+        "cse notes",
+        "ce notes",
+        "2nd year cs",
+        "2nd yr cs notes"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
+      "tag": "2nd year electrical",
+      "patterns": [
+        "second year notes computer science",
+        "computer engineering notes",
+        "cs notes",
+        "cse notes",
+        "ce notes",
+        "2nd year cs",
+        "2nd yr cs notes"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
       "tag": "funny",
       "patterns": [
         "Tell me a joke!",
