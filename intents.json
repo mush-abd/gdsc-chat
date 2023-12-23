@@ -186,7 +186,19 @@
       "patterns": [
         "seating arrangement",
         "examination hall",
-        "end semester seating plan",
+        "end semester seating plan"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "Notice",
+      "patterns": [
+        "Notice",
+        "circular",
+        "new guidelines",
+        "college notifications"
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php"
