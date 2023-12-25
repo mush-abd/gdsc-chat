@@ -250,7 +250,10 @@
       "patterns": [
         "seating arrangement",
         "examination hall",
-        "end semester seating plan"
+        "end semester seating plan",
+        "exam schedule",
+        "exam date sheet",
+        "time table exam"
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php"
