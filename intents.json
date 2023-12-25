@@ -32,6 +32,11 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
+      "tag": "name",
+      "patterns": ["What is your name", "Who are you", "What do you do", "How can you help"],
+      "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources and "]
+    },
+    {
       "tag": "1st Year Notes",
       "patterns": [
         "1st year",
@@ -253,7 +258,9 @@
         "end semester seating plan",
         "exam schedule",
         "exam date sheet",
-        "time table exam"
+        "time table exam",
+        "seating plan",
+        "examination hall"
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php"
