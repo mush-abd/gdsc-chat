@@ -34,7 +34,7 @@
     {
       "tag": "name",
       "patterns": ["What is your name", "Who are you", "What do you do", "How can you help"],
-      "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources and "]
+      "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources that you need", "I am a chat-bot, I can get you PYQs, notes and things... just ask it"]
     },
     {
       "tag": "1st Year Notes",
