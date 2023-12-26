@@ -12,9 +12,11 @@
       ],
       "responses": [
         "Hey :-)",
-        "Hello, thanks for visiting",
+        "Hello, thanks for visiting, what can I do for you",
         "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hi there, how can I help?",
+        "Hi, happy to see you, how can I help",
+        "Hello, how you doin? ;)"
       ]
     },
     {
@@ -34,7 +36,7 @@
     {
       "tag": "name",
       "patterns": ["What is your name", "Who are you", "What do you do", "How can you help"],
-      "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources and "]
+      "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources that you need", "I am a chat-bot, I can get you PYQs, notes and things... just ask it"]
     },
     {
       "tag": "1st Year Notes",
@@ -43,11 +45,24 @@
         "First Year",
         "Maths Notes first Year",
         "First Semester Notes",
-        "Second Semester Notes",
-        "Thermodynamics, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
+        "Second Semester Notes"
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
+      ]
+    },
+    {
+      "tag": "Ambiguity",
+      "patterns": [
+        "Thermo, Thermodynamics",
+        "Maths, Chemistry, Physics,Electrical, Electroncis",
+        "Maths Notes, Chemisstry notes, physics notes",
+        "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
+      ],
+      "responses": [
+        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
+        "Please enter your query again",
+        "Please enter the complete query"
       ]
     },
     {
@@ -132,7 +147,7 @@
         "measurement and instrumentation",
         "instrumentation lab",
         "electrical engineering",
-        "electromagnetics",
+        "electomagnetics",
         "digital electronics"
       ],
       "responses": [
