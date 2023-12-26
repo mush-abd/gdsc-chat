@@ -211,6 +211,34 @@
       ]
     },
     {
+      "tag": "2nd year chemical",
+      "patterns": [
+        "second year notes chemical enginnering",
+        "2nd year chemical engineering notes",
+        "chem notes",
+        "AMS2410 Higher Mathematics",
+        "EEA3110 Electrical Engineering",
+        "CHC2010 Basic Principles of Chemical Engineering",
+        "CHA2020 Biology for Engineers",
+        "CHC2030 Fluid Mechanics",
+        "chc2040 Fluid Particle Operation",
+        "EEA2960 Electrical Engineering Lab",
+        "CHC2900 Computer Application Lab",
+        "ezh2910 Communication lab",
+        "acs21110 Engineering Chemistry",
+        "CHC2060 Heat Transfer Operation",
+        "ACA2120 Material Science &Engg Material",
+        "CHC2130 Social, Cultural & Educational Movements",
+        "chc2070 Numerical Methods in Chemical engineering",
+        "chc2910 Computer Programming Lab",
+        "chc2920 fluid mechanics lab",
+        "chc2930 mechanical operation lab"
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
       "tag": "funny",
       "patterns": [
         "Tell me a joke!",
