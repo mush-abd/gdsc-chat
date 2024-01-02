@@ -335,6 +335,297 @@
       "responses": [
         "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology/notice-and-circular"
       ]
+    },
+    {
+      "tag": "Cirriculum and Syllabus",
+      "patterns": [
+        "syllabus",
+        "cirriculum",
+        "syllabus and cirriculum",
+        "give me syllabus",
+        "Btech Syllabus",
+        "first year syllabus",
+        "Second Year syllabus",
+        "Fourth Year syllabus",
+        "Third Year syllabus",
+        "Engineering Syllabus",
+        "Syllabus"
+      ],
+      "responses": [
+         "Please mention the subject for which you want the syllabus",
+         "Please enter in the following format: 'subject_name' syllabus",
+         "Please mention subject too when asking for cirriculum or syllabus",
+         "I'm sorry, can you frame your question in a different way?"
+      ]
+    },
+    {
+      "tag": "Artificial Intelligence, AI, Machine Learning, syllabus",
+      "patterns": [
+        " Artificial Intelligence, AI, Machine Learning, syllabus",
+        "Artificial Intelligence, AI, Machine Learning, give me syllabus",
+        "Artificial Intelligence, AI, Machine Learning, Btech Syllabus",
+        "Artificial Intelligence, AI, Machine Learning, first year syllabus",
+        "Artificial Intelligence, AI, Machine Learning, Second Year syllabus",
+        "Artificial Intelligence, AI, Machine Learning, Fourth Year syllabus",
+        "Artificial Intelligence, AI, Machine Learning, Third Year syllabus",
+        "Artificial Intelligence, AI, Machine Learning, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Computer Science, CS, COB, IT, syllabus",
+      "patterns": [
+        "Computer Science, CS, COB, IT, syllabus",
+        "Computer Science, CS, COB, IT, give me syllabus",
+        "Computer Science, CS, COB, IT, Btech Syllabus",
+        "Computer Science, CS, COB, IT, first year syllabus",
+        "Computer Science, CS, COB, IT, Second Year syllabus",
+        "Computer Science, CS, COB, IT, Fourth Year syllabus",
+        "Computer Science, CS, COB, IT, Third Year syllabus",
+        "Computer Science, CS, COB, IT, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Electronics, ELE, syllabus",
+      "patterns": [
+        "Electronics, ELE, syllabus",
+        "Electronics, ELE, give me syllabus",
+        "Electronics, ELE, Btech Syllabus",
+        "Electronics, ELE, first year syllabus",
+        "Electronics, ELE, Second Year syllabus",
+        "Electronics, ELE, Fourth Year syllabus",
+        "Electronics, ELE, Third Year syllabus",
+        "Electronics, ELE, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Electrical, EE, syllabus",
+      "patterns": [
+        "Electrical, EE, syllabus",
+        "Electrical, EE, give me syllabus",
+        "Electrical, EE, Btech Syllabus",
+        "Electrical, EE, first year syllabus",
+        "Electrical, EE, Second Year syllabus",
+        "Electrical, EE, Fourth Year syllabus",
+        "Electrical, EE, Third Year syllabus",
+        "Electrical, EE, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Mechanical, MEH, syllabus",
+      "patterns": [
+        "Mechanical, MEH, syllabus",
+        "Mechanical, MEH, give me syllabus",
+        "Mechanical, MEH, Btech Syllabus",
+        "Mechanical, MEH, first year syllabus",
+        "Mechanical, MEH, Second Year syllabus",
+        "Mechanical, MEH, Fourth Year syllabus",
+        "Mechanical, MEH, Third Year syllabus",
+        "Mechanical, MEH, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Civil, CE, syllabus",
+      "patterns": [
+        "Civil, CE, syllabus",
+        "Civil, CE, give me syllabus",
+        "Civil, CE, Btech Syllabus",
+        "Civil, CE, first year syllabus",
+        "Civil, CE, Second Year syllabus",
+        "Civil, CE, Fourth Year syllabus",
+        "Civil, CE, Third Year syllabus",
+        "Civil, CE, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Chemical, CHC, syllabus",
+      "patterns": [
+        "Chemical, CHC, syllabus",
+        "Chemical, CHC, give me syllabus",
+        "Chemical, CHC, Btech Syllabus",
+        "Chemical, CHC, first year syllabus",
+        "Chemical, CHC, Second Year syllabus",
+        "Chemical, CHC, Fourth Year syllabus",
+        "Chemical, CHC, Third Year syllabus",
+        "Chemical, CHC, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Petrochemical, PKE, PKC,  Petrochemical, PKE, PKC, syllabus",
+      "patterns": [
+        "Petrochemical, PKE, PKC, syllabus",
+        "Petrochemical, PKE, PKC, give me syllabus",
+        "Petrochemical, PKE, PKC, Btech Syllabus",
+        "Petrochemical, PKE, PKC, first year syllabus",
+        "Petrochemical, PKE, PKC, Second Year syllabus",
+        "Petrochemical, PKE, PKC, Fourth Year syllabus",
+        "Petrochemical, PKE, PKC, Third Year syllabus",
+        "Petrochemical, PKE, PKC, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Automobile, Electric Vehicle, syllabus",
+      "patterns": [
+        "Automobile, Electric Vehicle, syllabus",
+        "Automobile, Electric Vehicle, give me syllabus",
+        "Automobile, Electric Vehicle, Btech Syllabus",
+        "Automobile, Electric Vehicle, first year syllabus",
+        "Automobile, Electric Vehicle, Second Year syllabus",
+        "Automobile, Electric Vehicle, Fourth Year syllabus",
+        "Automobile, Electric Vehicle, Third Year syllabus",
+        "Automobile, Electric Vehicle, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Foot Technology, FT, Food, syllabus",
+      "patterns": [
+        "Foot Technology, FT, Food, syllabus",
+        "Foot Technology, FT, Food, give me syllabus",
+        "Foot Technology, FT, Food, Btech Syllabus",
+        "Foot Technology, FT, Food, first year syllabus",
+        "Foot Technology, FT, Food, Second Year syllabus",
+        "Foot Technology, FT, Food, Fourth Year syllabus",
+        "Foot Technology, FT, Food, Third Year syllabus",
+        "Foot Technology, FT, Food, Engineering Syllabus"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Artificial Intelligence, AI, Machine Learning, cicciculum",
+      "patterns": [
+        "Artificial Intelligence, AIB, AI, Machine learning, Cirriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, give me Cirriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, Btech Cirriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Computer Engineering, COB CO, CS, Cirriculum",
+      "patterns": [
+        "Computer Engineering, COB CO, CS, Cirriculum",
+        "Computer Engineering, COB CO, CS, give me Cirriculum",
+        "Computer Engineering, COB CO, CS, Btech Cirriculum",
+        "Computer Engineering, COB CO, CS, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Electronics Engineering, ELA, ELC, Cirriculum",
+      "patterns": [
+        "Electronics Engineering, ELA, ELC, Cirriculum",
+        "Electronics Engineering, ELA, ELC, give me Cirriculum",
+        "Electronics Engineering, ELA, ELC, Btech Cirriculum",
+        "Electronics Engineering, ELA, ELC, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Electrical Engineering, EEB, EE, Cirriculum",
+      "patterns": [
+        "Electrical Engineering, EEB, EE, Cirriculum",
+        "Electrical Engineering, EEB, EE, give me Cirriculum",
+        "Electrical Engineering, EEB, EE, Btech Cirriculum",
+        "Electrical Engineering, EEB, EE, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Mechanical Engineering, MEH, ME, Cirriculum",
+      "patterns": [
+        "Mechanical Engineering, MEH, ME, Cirriculum",
+        "Mechanical Engineering, MEH, ME, give me Cirriculum",
+        "Mechanical Engineering, MEH, ME, Btech Cirriculum",
+        "Mechanical Engineering, MEH, ME, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Civil Engineering, CE, CEB, Cirriculum",
+      "patterns": [
+        "Civil Engineering, CE, CEB, Cirriculum",
+        "Civil Engineering, CE, CEB, give me Cirriculum",
+        "Civil Engineering, CE, CEB, Btech Cirriculum",
+        "Civil Engineering, CE, CEB, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "CHemical, CHE, CH, Cirriculum",
+      "patterns": [
+        "CHemical, CHE, CH, Cirriculum",
+        "CHemical, CHE, CH, give me Cirriculum",
+        "CHemical, CHE, CH, Btech Cirriculum",
+        "CHemical, CHE, CH, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Petrochemical, PKB, PKE, Cirriculum",
+      "patterns": [
+        "Petrochemical, PKB, PKE, Cirriculum",
+        "Petrochemical, PKB, PKE, give me Cirriculum",
+        "Petrochemical, PKB, PKE, Btech Cirriculum",
+        "Petrochemical, PKB, PKE, Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "Automobile Engineering, AEB, AE, Cirriculum",
+      "patterns": [
+        "Automobile Engineering, AEB, AE,  Cirriculum",
+        "Automobile Engineering, AEB, AE,  give me Cirriculum",
+        "Automobile Engineering, AEB, AE,  Btech Cirriculum",
+        "Automobile Engineering, AEB, AE,  Engineering Cirriculum"
+      ],
+      "responses": [
+        ""
+      ]
     }
+
   ]
 }
