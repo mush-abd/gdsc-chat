@@ -239,18 +239,6 @@
       ]
     },
     {
-      "tag": "funny",
-      "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
-      ],
-      "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
-      ]
-    },
-    {
       "tag": "Previous Year Question Paper",
       "patterns": [
         "PYQ, PYQs",
@@ -304,6 +292,19 @@
         "time table exam",
         "seating plan",
         "examination hall"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "College",
+      "patterns": [
+        "Zakir Husain College of Engineering",
+        "College Information",
+        "College History",
+        "college infrastucture",
+        "College Campus"
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php"
