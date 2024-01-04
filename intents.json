@@ -371,7 +371,6 @@
         "Artificial Intelligence, AI, Machine Learning, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -387,7 +386,6 @@
         "Computer Science, CS, COB, IT, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -403,7 +401,6 @@
         "Electronics, ELE, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -419,7 +416,6 @@
         "Electrical, EE, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -435,7 +431,6 @@
         "Mechanical, MEH, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -451,7 +446,6 @@
         "Civil, CE, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -467,7 +461,6 @@
         "Chemical, CHC, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -483,7 +476,6 @@
         "Petrochemical, PKE, PKC, Engineering Syllabus"
       ],
       "responses": [
-        ""
       ]
     },
     {
@@ -503,16 +495,16 @@
       ]
     },
     {
-      "tag": "Foot Technology, FT, Food, syllabus",
+      "tag": "Food Technology, FT, Food, syllabus",
       "patterns": [
-        "Foot Technology, FT, Food, syllabus",
-        "Foot Technology, FT, Food, give me syllabus",
-        "Foot Technology, FT, Food, Btech Syllabus",
-        "Foot Technology, FT, Food, first year syllabus",
-        "Foot Technology, FT, Food, Second Year syllabus",
-        "Foot Technology, FT, Food, Fourth Year syllabus",
-        "Foot Technology, FT, Food, Third Year syllabus",
-        "Foot Technology, FT, Food, Engineering Syllabus"
+        "Food Technology, FT, Food, syllabus",
+        "Food Technology, FT, Food, give me syllabus",
+        "Food Technology, FT, Food, Btech Syllabus",
+        "Food Technology, FT, Food, first year syllabus",
+        "Food Technology, FT, Food, Second Year syllabus",
+        "Food Technology, FT, Food, Fourth Year syllabus",
+        "Food Technology, FT, Food, Third Year syllabus",
+        "Food Technology, FT, Food, Engineering Syllabus"
       ],
       "responses": [
         ""
@@ -527,7 +519,7 @@
         "Artificial Intelligence, AIB, AI, Machine learning, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nfor 2021-22 enrolled: https://ctengg.amu.ac.in/course_structure/BTECH/AI_21_22.pdf \nfor 2023: enrolled https://ctengg.amu.ac.in/course_structure/BTECH/AI_23_99.pdf"
       ]
     },
     {
@@ -539,7 +531,7 @@
         "Computer Engineering, COB CO, CS, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/PE_17_22.pdf \nenrolled in 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/PE_23_99.pdf"
       ]
     },
     {
@@ -551,7 +543,7 @@
         "Electronics Engineering, ELA, ELC, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/LE_17_22.pdf \n enrolled in 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/LE_23_99.pdf"
       ]
     },
     {
@@ -563,7 +555,7 @@
         "Electrical Engineering, EEB, EE, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/EE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/EE_23_99.pdf"
       ]
     },
     {
@@ -575,7 +567,7 @@
         "Mechanical Engineering, MEH, ME, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/ME_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/ME_23_99.pdf"
       ]
     },
     {
@@ -587,7 +579,7 @@
         "Civil Engineering, CE, CEB, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/CE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/CE_23_99.pdf"
       ]
     },
     {
@@ -599,7 +591,7 @@
         "CHemical, CHE, CH, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/KE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/KE_23_99.pdf" 
       ]
     },
     {
@@ -611,7 +603,7 @@
         "Petrochemical, PKB, PKE, Engineering Cirriculum"
       ],
       "responses": [
-        ""
+        "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/PK_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/PK_23_99.pdf"
       ]
     },
     {
