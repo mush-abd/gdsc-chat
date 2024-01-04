@@ -386,6 +386,7 @@
         "Computer Science, CS, COB, IT, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/30/under-graduate/syll/1663932332.pdf"
       ]
     },
     {
@@ -401,6 +402,7 @@
         "Electronics, ELE, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/32/under-graduate/syll/1689180796.pdf"
       ]
     },
     {
@@ -416,6 +418,7 @@
         "Electrical, EE, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/31/under-graduate/syll/1663860951.pdf"
       ]
     },
     {
@@ -431,6 +434,7 @@
         "Mechanical, MEH, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/34/under-graduate/syll/1702647248.pdf"
       ]
     },
     {
@@ -446,6 +450,7 @@
         "Civil, CE, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/28/under-graduate/syll/1663578012.pdf"
       ]
     },
     {
@@ -461,6 +466,7 @@
         "Chemical, CHC, Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/29/under-graduate/syll/1666846869.pdf"
       ]
     },
     {
@@ -510,6 +516,7 @@
         ""
       ]
     },
+    
     {
       "tag": "Artificial Intelligence, AI, Machine Learning, cicciculum",
       "patterns": [
