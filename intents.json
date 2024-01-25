@@ -232,7 +232,9 @@
         "chc2070 Numerical Methods in Chemical engineering",
         "chc2910 Computer Programming Lab",
         "chc2920 fluid mechanics lab",
-        "chc2930 mechanical operation lab"
+        "chc2930 mechanical operation lab",
+        "Chemical second year paper"
+        
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/Computer"
@@ -591,7 +593,7 @@
       ]
     },
     {
-      "tag": "CHemical, CHE, CH, Cirriculum",
+      "tag": "CHemical, CHE, CH, Cirriculum, ",
       "patterns": [
         "CHemical, CHE, CH, Cirriculum",
         "CHemical, CHE, CH, give me Cirriculum",
