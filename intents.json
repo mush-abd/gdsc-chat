@@ -38,9 +38,6 @@
       "patterns": ["What is your name", "Who are you", "What do you do", "How can you help"],
       "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources that you need", "I am a chat-bot, I can get you PYQs, notes and things... just ask it"]
     },
-    
-
-
     {
       "tag": "1st Year Notes",
       "patterns": [
@@ -54,8 +51,32 @@
         "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
       ]
     },
-    
-   
+    {
+      "tag": "Ambiguity",
+      "patterns": [
+        "Thermo, Thermodynamics",
+        "Maths, Chemistry, Physics,Electrical, Electroncis",
+        "Maths Notes, Chemistry notes, physics notes",
+        "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
+      ],
+      "responses": [
+        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
+        "Please enter your query again",
+        "Please enter the complete query"
+      ]
+    },
+    {
+      "tag": "registration card",
+      "patterns": [
+        "rp unit",
+        "download my registeration card",
+        "where to get my id card",
+        "registration card for the session"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
+      ]
+    },
     {
       "tag": "2nd year computer",
       "patterns": [
@@ -217,10 +238,20 @@
         
       ],
       "responses": [
-        "https://www.collegecanteen.co.in/notes/Chemical"
       ]
     },
-    
+    {
+      "tag": "Previous Year Question Paper",
+      "patterns": [
+        "PYQ, PYQs",
+        "Give me previous Year Question paper",
+        "End semester pyq",
+        "exam question papers"
+      ],
+      "responses": [
+        "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
+      ]
+    },
     {
       "tag": "2nd year AI",
       "patterns": [
@@ -252,8 +283,83 @@
         "https://www.collegecanteen.co.in/notes/Computer"
       ]
     },
-
-
+    {
+      "tag": "Seating Arrangement",
+      "patterns": [
+        "seating arrangement",
+        "examination hall",
+        "end semester seating plan",
+        "exam schedule",
+        "exam date sheet",
+        "time table exam",
+        "seating plan",
+        "examination hall"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "College",
+      "patterns": [
+        "Zakir Husain College of Engineering",
+        "College Information",
+        "College History",
+        "college infrastucture",
+        "College Campus"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "course structure",
+      "patterns": [
+        "course structure of btech",
+        "syllabus",
+        "first year syllabus",
+        "course structure of barh",
+        "course structure of mtech",
+        "4 year course plan "
+      ],
+      "responses": [
+        "Btech: ctengg.amu.ac.in/web/crs_struct.php?prog=btech \n Be : ctengg.amu.ac.in/web/crs_struct.php?prog=be \n Mtech: ctengg.amu.ac.in/web/crs_struct.php?prog=mtech \n First yr : Microsoft Word - 14_Syllabi_Combined (amu.ac.in)" 
+      ]
+    },
+    {
+      "tag": "Notice",
+      "patterns": [
+        "Notice",
+        "circular",
+        "new guidelines",
+        "college notifications"
+      ],
+      "responses": [
+        "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology/notice-and-circular"
+      ]
+    },
+    {
+      "tag": "curriculum and Syllabus",
+      "patterns": [
+        "syllabus",
+        "curriculum",
+        "syllabus and curriculum",
+        "give me syllabus",
+        "Btech Syllabus",
+        "first year syllabus",
+        "Second Year syllabus",
+        "Fourth Year syllabus",
+        "Third Year syllabus",
+        "Engineering Syllabus",
+        "Syllabus"
+      ],
+      "responses": [
+         "Please mention the subject for which you want the syllabus",
+         "Please enter in the following format: 'subject_name' syllabus",
+         "Please mention subject too when asking for curriculum or syllabus",
+         "I'm sorry, can you frame your question in a different way?"
+      ]
+    },
     {
       "tag": "Artificial Intelligence, AI, Machine Learning, syllabus",
       "patterns": [
@@ -415,230 +521,111 @@
     },
     
     {
-      "tag": "Artificial Intelligence, AI, Machine Learning, curriculum",
+      "tag": "Artificial Intelligence, AI, Machine Learning, cicciculum",
       "patterns": [
-        "Artificial Intelligence, AIB, AI, Machine learning, Cirriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, give me Cirriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, Btech Cirriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, Engineering Cirriculum"
+        "Artificial Intelligence, AIB, AI, Machine learning, curriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, give me curriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, Btech curriculum",
+        "Artificial Intelligence, AIB, AI, Machine learning, Engineering curriculum"
       ],
       "responses": [
         "\nfor 2021-22 enrolled: https://ctengg.amu.ac.in/course_structure/BTECH/AI_21_22.pdf \nfor 2023: enrolled https://ctengg.amu.ac.in/course_structure/BTECH/AI_23_99.pdf"
       ]
     },
     {
-      "tag": "Computer Engineering, COB CO, CS, Cirriculum",
+      "tag": "Computer Engineering, COB CO, CS, curriculum",
       "patterns": [
-        "Computer Engineering, COB CO, CS, Cirriculum",
-        "Computer Engineering, COB CO, CS, give me Cirriculum",
-        "Computer Engineering, COB CO, CS, Btech Cirriculum",
-        "Computer Engineering, COB CO, CS, Engineering Cirriculum"
+        "Computer Engineering, COB CO, CS, curriculum",
+        "Computer Engineering, COB CO, CS, give me curriculum",
+        "Computer Engineering, COB CO, CS, Btech curriculum",
+        "Computer Engineering, COB CO, CS, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/PE_17_22.pdf \nenrolled in 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/PE_23_99.pdf"
       ]
     },
     {
-      "tag": "Electronics Engineering, ELA, ELC, Cirriculum",
+      "tag": "Electronics Engineering, ELA, ELC, curriculum",
       "patterns": [
-        "Electronics Engineering, ELA, ELC, Cirriculum",
-        "Electronics Engineering, ELA, ELC, give me Cirriculum",
-        "Electronics Engineering, ELA, ELC, Btech Cirriculum",
-        "Electronics Engineering, ELA, ELC, Engineering Cirriculum"
+        "Electronics Engineering, ELA, ELC, curriculum",
+        "Electronics Engineering, ELA, ELC, give me curriculum",
+        "Electronics Engineering, ELA, ELC, Btech curriculum",
+        "Electronics Engineering, ELA, ELC, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/LE_17_22.pdf \n enrolled in 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/LE_23_99.pdf"
       ]
     },
     {
-      "tag": "Electrical Engineering, EEB, EE, Cirriculum",
+      "tag": "Electrical Engineering, EEB, EE, curriculum",
       "patterns": [
-        "Electrical Engineering, EEB, EE, Cirriculum",
-        "Electrical Engineering, EEB, EE, give me Cirriculum",
-        "Electrical Engineering, EEB, EE, Btech Cirriculum",
-        "Electrical Engineering, EEB, EE, Engineering Cirriculum"
+        "Electrical Engineering, EEB, EE, curriculum",
+        "Electrical Engineering, EEB, EE, give me curriculum",
+        "Electrical Engineering, EEB, EE, Btech curriculum",
+        "Electrical Engineering, EEB, EE, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/EE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/EE_23_99.pdf"
       ]
     },
     {
-      "tag": "Mechanical Engineering, MEH, ME, Cirriculum",
+      "tag": "Mechanical Engineering, MEH, ME, curriculum",
       "patterns": [
-        "Mechanical Engineering, MEH, ME, Cirriculum",
-        "Mechanical Engineering, MEH, ME, give me Cirriculum",
-        "Mechanical Engineering, MEH, ME, Btech Cirriculum",
-        "Mechanical Engineering, MEH, ME, Engineering Cirriculum"
+        "Mechanical Engineering, MEH, ME, curriculum",
+        "Mechanical Engineering, MEH, ME, give me curriculum",
+        "Mechanical Engineering, MEH, ME, Btech curriculum",
+        "Mechanical Engineering, MEH, ME, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/ME_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/ME_23_99.pdf"
       ]
     },
     {
-      "tag": "Civil Engineering, CE, CEB, Cirriculum",
+      "tag": "Civil Engineering, CE, CEB, curriculum",
       "patterns": [
-        "Civil Engineering, CE, CEB, Cirriculum",
-        "Civil Engineering, CE, CEB, give me Cirriculum",
-        "Civil Engineering, CE, CEB, Btech Cirriculum",
-        "Civil Engineering, CE, CEB, Engineering Cirriculum"
+        "Civil Engineering, CE, CEB, curriculum",
+        "Civil Engineering, CE, CEB, give me curriculum",
+        "Civil Engineering, CE, CEB, Btech curriculum",
+        "Civil Engineering, CE, CEB, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/CE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/CE_23_99.pdf"
       ]
     },
     {
-      "tag": "CHemical, CHE, CH, Curriculum, ",
+      "tag": "CHemical, CHE, CH, curriculum, ",
       "patterns": [
-        "CHemical, CHE, CH, Curriculum",
-        "CHemical, CHE, CH, give me Curriculum",
-        "CHemical, CHE, CH, Btech Cirriculum",
-        "CHemical, CHE, CH, Engineering Cirriculum"
+        "CHemical, CHE, CH, curriculum",
+        "CHemical, CHE, CH, give me curriculum",
+        "CHemical, CHE, CH, Btech curriculum",
+        "CHemical, CHE, CH, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/KE_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/KE_23_99.pdf" 
       ]
     },
     {
-      "tag": "Petrochemical, PKB, PKE, Cirriculum",
+      "tag": "Petrochemical, PKB, PKE, curriculum",
       "patterns": [
-        "Petrochemical, PKB, PKE, Cirriculum",
-        "Petrochemical, PKB, PKE, give me Cirriculum",
-        "Petrochemical, PKB, PKE, Btech Cirriculum",
-        "Petrochemical, PKB, PKE, Engineering Cirriculum"
+        "Petrochemical, PKB, PKE, curriculum",
+        "Petrochemical, PKB, PKE, give me curriculum",
+        "Petrochemical, PKB, PKE, Btech curriculum",
+        "Petrochemical, PKB, PKE, Engineering curriculum"
       ],
       "responses": [
         "\nenrolled in year until 2022: https://ctengg.amu.ac.in/course_structure/BTECH/PK_17_22.pdf \n enrolled in year 2023 onwards: https://ctengg.amu.ac.in/course_structure/BTECH/PK_23_99.pdf"
       ]
     },
     {
-      "tag": "Automobile Engineering, AEB, AE, Cirriculum",
+      "tag": "Automobile Engineering, AEB, AE, curriculum",
       "patterns": [
-        "Automobile Engineering, AEB, AE,  Cirriculum",
-        "Automobile Engineering, AEB, AE,  give me Cirriculum",
-        "Automobile Engineering, AEB, AE,  Btech Cirriculum",
-        "Automobile Engineering, AEB, AE,  Engineering Cirriculum"
+        "Automobile Engineering, AEB, AE,  curriculum",
+        "Automobile Engineering, AEB, AE,  give me curriculum",
+        "Automobile Engineering, AEB, AE,  Btech curriculum",
+        "Automobile Engineering, AEB, AE,  Engineering curriculum"
       ],
       "responses": [
         ""
-      ]
-    },
-
-
-
-
-    {
-      "tag": "Ambiguity",
-      "patterns": [
-        "Thermo, Thermodynamics",
-        "Maths, Chemistry, Physics,Electrical, Electroncis",
-        "Maths Notes, Chemisstry notes, physics notes",
-        "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
-      ],
-      "responses": [
-        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
-        "Please enter your query again",
-        "Please enter the complete query"
-      ]
-    },
-    {
-      "tag": "Previous Year Question Paper",
-      "patterns": [
-        "PYQ, PYQs",
-        "Give me previous Year Question paper",
-        "End semester pyq",
-        "exam question papers"
-      ],
-      "responses": [
-        "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
-      ]
-    },
-    {
-      "tag": "Seating Arrangement",
-      "patterns": [
-        "seating arrangement",
-        "examination hall",
-        "end semester seating plan",
-        "exam schedule",
-        "exam date sheet",
-        "time table exam",
-        "seating plan",
-        "examination hall"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php"
-      ]
-    },
-    {
-      "tag": "College",
-      "patterns": [
-        "Zakir Husain College of Engineering",
-        "College Information",
-        "College History",
-        "college infrastucture",
-        "College Campus"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php"
-      ]
-    },
-    {
-      "tag": "course structure",
-      "patterns": [
-        "course structure of btech",
-        "syllabus",
-        "first year syllabus",
-        "course structure of barh",
-        "course structure of mtech",
-        "4 year course plan "
-      ],
-      "responses": [
-        "Btech: ctengg.amu.ac.in/web/crs_struct.php?prog=btech \n Be : ctengg.amu.ac.in/web/crs_struct.php?prog=be \n Mtech: ctengg.amu.ac.in/web/crs_struct.php?prog=mtech \n First yr : Microsoft Word - 14_Syllabi_Combined (amu.ac.in)" 
-      ]
-    },
-    {
-      "tag": "Notice",
-      "patterns": [
-        "Notice",
-        "circular",
-        "new guidelines",
-        "college notifications"
-      ],
-      "responses": [
-        "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology/notice-and-circular"
-      ]
-    },
-    {
-      "tag": "registration card",
-      "patterns": [
-        "rp unit",
-        "download my registeration card",
-        "where to get my id card",
-        "registration card for the session"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
-      ]
-    },
-    {
-      "tag": "Cirriculum and Syllabus",
-      "patterns": [
-        "syllabus",
-        "cirriculum",
-        "syllabus and cirriculum",
-        "give me syllabus",
-        "Btech Syllabus",
-        "first year syllabus",
-        "Second Year syllabus",
-        "Fourth Year syllabus",
-        "Third Year syllabus",
-        "Engineering Syllabus",
-        "Syllabus"
-      ],
-      "responses": [
-         "Please mention the subject for which you want the syllabus",
-         "Please enter in the following format: 'subject_name' syllabus",
-         "Please mention subject too when asking for cirriculum or syllabus",
-         "I'm sorry, can you frame your question in a different way?"
       ]
     }
 
