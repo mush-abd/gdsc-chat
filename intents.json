@@ -149,7 +149,9 @@
         "rp unit",
         "download my registeration card",
         "where to get my id card",
-        "registration card for the session"
+        "registration card for the session",
+        "Registration",
+        "Registration card"
       ],
       "responses": [
         "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
@@ -176,9 +178,10 @@
       "patterns": [
         "1st year",
         "First Year",
-        "Maths Notes first Year",
         "First Semester Notes",
-        "Second Semester Notes"
+        "Second Semester Notes",
+        "1st semester notes",
+        "2nd semester notes"
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
@@ -189,8 +192,6 @@
       "patterns": [
         "second year notes computer science",
         "computer engineering notes",
-        "cs notes",
-        "cse notes",
         "ce notes",
         "2nd year cs",
         "2nd yr cs notes",
@@ -314,7 +315,8 @@
         "eec2310 power system engineering ",
         "eec2510 electrical measurement",
         "eec2930 circuits and measurements lab",
-        "eec2920 electrical machines lab 2 ii"
+        "eec2920 electrical machines lab 2 ii",
+        "electrical notes"
       ],
       "responses": [
         "https://www.collegecanteen.co.in/notes/Electrical"
@@ -372,7 +374,8 @@
         "chc2910 Computer Programming Lab",
         "chc2920 fluid mechanics lab",
         "chc2930 mechanical operation lab",
-        "Chemical second year paper"
+        "Chemical second year paper",
+        "chemical notes"
         
       ],
       "responses": [
@@ -400,16 +403,17 @@
 
     },
     {
-      "tag": "Computer Science CS COB IT syllabus",
+      "tag": "Computer syllabus",
       "patterns": [
-        "Computer Science CS COB IT syllabus",
-        "Computer Science CS COB IT give me syllabus",
-        "Computer Science CS COB IT Btech Syllabus",
-        "Computer Science CS COB IT first year syllabus",
-        "Computer Science CS COB IT Second Year syllabus",
-        "Computer Science CS COB IT Fourth Year syllabus",
-        "Computer Science CS COB IT Third Year syllabus",
-        "Computer Science CS COB IT Engineering Syllabus"
+        "Computer syllabus",
+        "Computer give me syllabus",
+        "Computer Btech Syllabus",
+        "Computer first year syllabus",
+        "Computer Second Year syllabus",
+        "Computer Fourth Year syllabus",
+        "Computer Third Year syllabus",
+        "Computer Engineering Syllabus",
+        "Computer Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/30/under-graduate/syll/1663932332.pdf"
@@ -418,14 +422,15 @@
     {
       "tag": "Electronics ELE syllabus",
       "patterns": [
-        "Electronics ELE syllabus",
-        "Electronics ELE give me syllabus",
-        "Electronics ELE Btech Syllabus",
-        "Electronics ELE first year syllabus",
-        "Electronics ELE Second Year syllabus",
-        "Electronics ELE Fourth Year syllabus",
-        "Electronics ELE Third Year syllabus",
-        "Electronics ELE Engineering Syllabus"
+        "Electronics syllabus",
+        "Electronics give me syllabus",
+        "Electronics Btech Syllabus",
+        "Electronics first year syllabus",
+        "Electronics Second Year syllabus",
+        "Electronics Fourth Year syllabus",
+        "Electronics Third Year syllabus",
+        "Electronics Engineering Syllabus",
+        "ELE Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/32/under-graduate/syll/1689180796.pdf"
@@ -434,14 +439,14 @@
     {
       "tag": "Electrical EE syllabus",
       "patterns": [
-        "Electrical EE syllabus",
-        "Electrical EE give me syllabus",
-        "Electrical EE Btech Syllabus",
-        "Electrical EE first year syllabus",
-        "Electrical EE Second Year syllabus",
-        "Electrical EE Fourth Year syllabus",
-        "Electrical EE Third Year syllabus",
-        "Electrical EE Engineering Syllabus"
+        "Electrical syllabus",
+        "Electrical give me syllabus",
+        "Electrical Btech Syllabus",
+        "Electrical first year syllabus",
+        "Electrical Second Year syllabus",
+        "Electrical Fourth Year syllabus",
+        "Electrical Third Year syllabus",
+        "Electrical Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/31/under-graduate/syll/1663860951.pdf"
