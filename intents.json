@@ -38,6 +38,9 @@
       "patterns": ["What is your name", "Who are you", "What do you do", "How can you help"],
       "responses": ["I am GDSC-ZHCET chatbot, I help to solve your queries", "This is GDSC-ZHCET bot, I try to help you find resources that you need", "I am a chat-bot, I can get you PYQs, notes and things... just ask it"]
     },
+    
+
+
     {
       "tag": "1st Year Notes",
       "patterns": [
@@ -65,18 +68,7 @@
         "Please enter the complete query"
       ]
     },
-    {
-      "tag": "registration card",
-      "patterns": [
-        "rp unit",
-        "download my registeration card",
-        "where to get my id card",
-        "registration card for the session"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
-      ]
-    },
+   
     {
       "tag": "2nd year computer",
       "patterns": [
@@ -284,83 +276,8 @@
         "https://www.collegecanteen.co.in/notes/Computer"
       ]
     },
-    {
-      "tag": "Seating Arrangement",
-      "patterns": [
-        "seating arrangement",
-        "examination hall",
-        "end semester seating plan",
-        "exam schedule",
-        "exam date sheet",
-        "time table exam",
-        "seating plan",
-        "examination hall"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php"
-      ]
-    },
-    {
-      "tag": "College",
-      "patterns": [
-        "Zakir Husain College of Engineering",
-        "College Information",
-        "College History",
-        "college infrastucture",
-        "College Campus"
-      ],
-      "responses": [
-        "https://ctengg.amu.ac.in/web/index.php"
-      ]
-    },
-    {
-      "tag": "course structure",
-      "patterns": [
-        "course structure of btech",
-        "syllabus",
-        "first year syllabus",
-        "course structure of barh",
-        "course structure of mtech",
-        "4 year course plan "
-      ],
-      "responses": [
-        "Btech: ctengg.amu.ac.in/web/crs_struct.php?prog=btech \n Be : ctengg.amu.ac.in/web/crs_struct.php?prog=be \n Mtech: ctengg.amu.ac.in/web/crs_struct.php?prog=mtech \n First yr : Microsoft Word - 14_Syllabi_Combined (amu.ac.in)" 
-      ]
-    },
-    {
-      "tag": "Notice",
-      "patterns": [
-        "Notice",
-        "circular",
-        "new guidelines",
-        "college notifications"
-      ],
-      "responses": [
-        "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology/notice-and-circular"
-      ]
-    },
-    {
-      "tag": "Cirriculum and Syllabus",
-      "patterns": [
-        "syllabus",
-        "cirriculum",
-        "syllabus and cirriculum",
-        "give me syllabus",
-        "Btech Syllabus",
-        "first year syllabus",
-        "Second Year syllabus",
-        "Fourth Year syllabus",
-        "Third Year syllabus",
-        "Engineering Syllabus",
-        "Syllabus"
-      ],
-      "responses": [
-         "Please mention the subject for which you want the syllabus",
-         "Please enter in the following format: 'subject_name' syllabus",
-         "Please mention subject too when asking for cirriculum or syllabus",
-         "I'm sorry, can you frame your question in a different way?"
-      ]
-    },
+
+
     {
       "tag": "Artificial Intelligence, AI, Machine Learning, syllabus",
       "patterns": [
@@ -627,6 +544,100 @@
       ],
       "responses": [
         ""
+      ]
+    },
+
+
+
+
+    
+    {
+      "tag": "Seating Arrangement",
+      "patterns": [
+        "seating arrangement",
+        "examination hall",
+        "end semester seating plan",
+        "exam schedule",
+        "exam date sheet",
+        "time table exam",
+        "seating plan",
+        "examination hall"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "College",
+      "patterns": [
+        "Zakir Husain College of Engineering",
+        "College Information",
+        "College History",
+        "college infrastucture",
+        "College Campus"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php"
+      ]
+    },
+    {
+      "tag": "course structure",
+      "patterns": [
+        "course structure of btech",
+        "syllabus",
+        "first year syllabus",
+        "course structure of barh",
+        "course structure of mtech",
+        "4 year course plan "
+      ],
+      "responses": [
+        "Btech: ctengg.amu.ac.in/web/crs_struct.php?prog=btech \n Be : ctengg.amu.ac.in/web/crs_struct.php?prog=be \n Mtech: ctengg.amu.ac.in/web/crs_struct.php?prog=mtech \n First yr : Microsoft Word - 14_Syllabi_Combined (amu.ac.in)" 
+      ]
+    },
+    {
+      "tag": "Notice",
+      "patterns": [
+        "Notice",
+        "circular",
+        "new guidelines",
+        "college notifications"
+      ],
+      "responses": [
+        "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology/notice-and-circular"
+      ]
+    },
+    {
+      "tag": "registration card",
+      "patterns": [
+        "rp unit",
+        "download my registeration card",
+        "where to get my id card",
+        "registration card for the session"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
+      ]
+    },
+    {
+      "tag": "Cirriculum and Syllabus",
+      "patterns": [
+        "syllabus",
+        "cirriculum",
+        "syllabus and cirriculum",
+        "give me syllabus",
+        "Btech Syllabus",
+        "first year syllabus",
+        "Second Year syllabus",
+        "Fourth Year syllabus",
+        "Third Year syllabus",
+        "Engineering Syllabus",
+        "Syllabus"
+      ],
+      "responses": [
+         "Please mention the subject for which you want the syllabus",
+         "Please enter in the following format: 'subject_name' syllabus",
+         "Please mention subject too when asking for cirriculum or syllabus",
+         "I'm sorry, can you frame your question in a different way?"
       ]
     }
 
