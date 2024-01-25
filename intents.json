@@ -54,20 +54,7 @@
         "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
       ]
     },
-    {
-      "tag": "Ambiguity",
-      "patterns": [
-        "Thermo, Thermodynamics",
-        "Maths, Chemistry, Physics,Electrical, Electroncis",
-        "Maths Notes, Chemisstry notes, physics notes",
-        "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
-      ],
-      "responses": [
-        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
-        "Please enter your query again",
-        "Please enter the complete query"
-      ]
-    },
+    
    
     {
       "tag": "2nd year computer",
@@ -233,18 +220,7 @@
         "https://www.collegecanteen.co.in/notes/Chemical"
       ]
     },
-    {
-      "tag": "Previous Year Question Paper",
-      "patterns": [
-        "PYQ, PYQs",
-        "Give me previous Year Question paper",
-        "End semester pyq",
-        "exam question papers"
-      ],
-      "responses": [
-        "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
-      ]
-    },
+    
     {
       "tag": "2nd year AI",
       "patterns": [
@@ -439,7 +415,7 @@
     },
     
     {
-      "tag": "Artificial Intelligence, AI, Machine Learning, cicciculum",
+      "tag": "Artificial Intelligence, AI, Machine Learning, curriculum",
       "patterns": [
         "Artificial Intelligence, AIB, AI, Machine learning, Cirriculum",
         "Artificial Intelligence, AIB, AI, Machine learning, give me Cirriculum",
@@ -511,10 +487,10 @@
       ]
     },
     {
-      "tag": "CHemical, CHE, CH, Cirriculum, ",
+      "tag": "CHemical, CHE, CH, Curriculum, ",
       "patterns": [
-        "CHemical, CHE, CH, Cirriculum",
-        "CHemical, CHE, CH, give me Cirriculum",
+        "CHemical, CHE, CH, Curriculum",
+        "CHemical, CHE, CH, give me Curriculum",
         "CHemical, CHE, CH, Btech Cirriculum",
         "CHemical, CHE, CH, Engineering Cirriculum"
       ],
@@ -550,7 +526,32 @@
 
 
 
-    
+    {
+      "tag": "Ambiguity",
+      "patterns": [
+        "Thermo, Thermodynamics",
+        "Maths, Chemistry, Physics,Electrical, Electroncis",
+        "Maths Notes, Chemisstry notes, physics notes",
+        "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
+      ],
+      "responses": [
+        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
+        "Please enter your query again",
+        "Please enter the complete query"
+      ]
+    },
+    {
+      "tag": "Previous Year Question Paper",
+      "patterns": [
+        "PYQ, PYQs",
+        "Give me previous Year Question paper",
+        "End semester pyq",
+        "exam question papers"
+      ],
+      "responses": [
+        "https://www.amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers"
+      ]
+    },
     {
       "tag": "Seating Arrangement",
       "patterns": [
