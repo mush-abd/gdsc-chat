@@ -54,37 +54,6 @@
       ]
     },
     {
-      "tag": "2nd year AI",
-      "patterns": [
-        "second year notes artificial intelligence",
-        "AI engineering notes",
-        "AI notes",
-        "Machine learning notes",
-        "introduction to artificial  intelligence notes",
-        "2nd year AI",
-        "2nd yr AI notes",
-        "AMS2610 Higher Mathematics",
-        "AIC2020 Introduction to Artificial Intelligence",
-        "AIC2040 Principles of Machine Learning",
-        "AIC2060 Data Structure and Algorithm ",
-        "AIC2070 Digital Logic and System Design",
-        " ELA2110 Electronic Devices & Circuits",
-        "EZH2910 Communication Skill Lab",
-        "AIC2910 Data Structure Lab",
-        "AIC2130 Statistical Learning",
-        "AMS2630 Discrete Structures",
-        "AIC2150 AI Tools & Techniques",
-        "AIC2140 Design & Analysis of Algorithm",
-        "ELA2410 Signal & Systems",
-        "AIC2930 Minor Project-I",
-        "ELA2900 Electronics Lab",
-        "AIC2940 Python Programming Laboratory "
-      ],
-      "responses": [
-        "https://www.collegecanteen.co.in/notes/Computer"
-      ]
-    },
-    {
       "tag": "Seating Arrangement",
       "patterns": [
         "seating arrangement",
@@ -169,7 +138,7 @@
         "Thermodynamics, Thermo, Applied Physics, Applied Chemistry, Applied Mathematics, English, Electrical, Electronics, Mechanics, Environmental"
       ],
       "responses": [
-        "Please enter the query in proper format (for example, Applied Chemistry first year notes)",
+        "Please enter the query in proper format (for example, 'Applied Chemistry first year notes')",
         "Please enter your query again",
         "Please enter the complete query"
       ]
@@ -186,11 +155,22 @@
         "https://ctengg.amu.ac.in/web/index.php \n https://ctengg.amu.ac.in/web/reg_record_odd.php \n https://ctengg.amu.ac.in/web/reg_record_even.php"
       ]
     },
+    {
+      "tag": "Result",
+      "patterns": [
+        "result",
+        "fist second third fourth fifth sixth seventh eighth semester result",
+        "1st 2nd 3rd 4th 5th 6th 7th 8th semester result",
+        "download result",
+        "student result rp unit"
+      ],
+      "responses": [
+        "https://ctengg.amu.ac.in/web/st_result001.php?prog=btech"
+      ]
+    },
 
 
 
-
-    
     {
       "tag": "1st Year Notes",
       "patterns": [
@@ -204,9 +184,8 @@
         "https://www.collegecanteen.co.in/notes/First%20Year/First%20Year"
       ]
     },
-    
     {
-      "tag": "2nd year computer",
+      "tag": "2nd year computer notes",
       "patterns": [
         "second year notes computer science",
         "computer engineering notes",
@@ -235,7 +214,38 @@
       ]
     },
     {
-      "tag": "2nd year civil",
+      "tag": "2nd year AI notes",
+      "patterns": [
+        "second year notes artificial intelligence",
+        "AI engineering notes",
+        "AI notes",
+        "Machine learning notes",
+        "introduction to artificial  intelligence notes",
+        "2nd year AI",
+        "2nd yr AI notes",
+        "AMS2610 Higher Mathematics",
+        "AIC2020 Introduction to Artificial Intelligence",
+        "AIC2040 Principles of Machine Learning",
+        "AIC2060 Data Structure and Algorithm ",
+        "AIC2070 Digital Logic and System Design",
+        " ELA2110 Electronic Devices & Circuits",
+        "EZH2910 Communication Skill Lab",
+        "AIC2910 Data Structure Lab",
+        "AIC2130 Statistical Learning",
+        "AMS2630 Discrete Structures",
+        "AIC2150 AI Tools & Techniques",
+        "AIC2140 Design & Analysis of Algorithm",
+        "ELA2410 Signal & Systems",
+        "AIC2930 Minor Project-I",
+        "ELA2900 Electronics Lab",
+        "AIC2940 Python Programming Laboratory "
+      ],
+      "responses": [
+        "https://www.collegecanteen.co.in/notes/Computer"
+      ]
+    },
+    {
+      "tag": "2nd year civil notes",
       "patterns": [
         "second year notes civil engineering",
         "2nd year notes civil engineering notes",
@@ -261,7 +271,7 @@
       ]
     },
     {
-      "tag": "2nd year electronics",
+      "tag": "2nd year electronics notes",
       "patterns": [
         "second year notes electronics engineering",
         "2nd yr electronics engineering notes",
@@ -285,7 +295,7 @@
       ]
     },
     {
-      "tag": "2nd year electrical",
+      "tag": "2nd year electrical notes",
       "patterns": [
         "second year notes electrical enginnering",
         "2nd year electrical engineering notes",
@@ -311,7 +321,7 @@
       ]
     },
     {
-      "tag": "2nd year mechanical",
+      "tag": "2nd year mechanical notes",
       "patterns": [
         "second year notes mechanical enginnering",
         "2nd year mechanical engineering notes",
@@ -340,7 +350,7 @@
       ]
     },
     {
-      "tag": "2nd year chemical",
+      "tag": "2nd year chemical notes",
       "patterns": [
         "second year notes chemical enginnering",
         "2nd year chemical engineering notes",
@@ -372,165 +382,165 @@
     
 
 
-
-
     {
-      "tag": "Artificial Intelligence, AI, Machine Learning, syllabus",
+      "tag": "Artificial Intelligence AI Machine Learning syllabus",
       "patterns": [
-        " Artificial Intelligence, AI, Machine Learning, syllabus",
-        "Artificial Intelligence, AI, Machine Learning, give me syllabus",
-        "Artificial Intelligence, AI, Machine Learning, Btech Syllabus",
-        "Artificial Intelligence, AI, Machine Learning, first year syllabus",
-        "Artificial Intelligence, AI, Machine Learning, Second Year syllabus",
-        "Artificial Intelligence, AI, Machine Learning, Fourth Year syllabus",
-        "Artificial Intelligence, AI, Machine Learning, Third Year syllabus",
-        "Artificial Intelligence, AI, Machine Learning, Engineering Syllabus"
+        " Artificial Intelligence AI Machine Learning syllabus",
+        "Artificial Intelligence AI Machine Learning give me syllabus",
+        "Artificial Intelligence AI Machine Learning Btech Syllabus",
+        "Artificial Intelligence AI Machine Learning first year syllabus",
+        "Artificial Intelligence AI Machine Learning Second Year syllabus",
+        "Artificial Intelligence AI Machine Learning Fourth Year syllabus",
+        "Artificial Intelligence AI Machine Learning Third Year syllabus",
+        "Artificial Intelligence AI Machine Learning Engineering Syllabus"
       ],
       "responses": [
+        "https://api.amu.ac.in/storage//file/10275/file_management/1674546227.pdf"
       ]
+
     },
     {
-      "tag": "Computer Science, CS, COB, IT, syllabus",
+      "tag": "Computer Science CS COB IT syllabus",
       "patterns": [
-        "Computer Science, CS, COB, IT, syllabus",
-        "Computer Science, CS, COB, IT, give me syllabus",
-        "Computer Science, CS, COB, IT, Btech Syllabus",
-        "Computer Science, CS, COB, IT, first year syllabus",
-        "Computer Science, CS, COB, IT, Second Year syllabus",
-        "Computer Science, CS, COB, IT, Fourth Year syllabus",
-        "Computer Science, CS, COB, IT, Third Year syllabus",
-        "Computer Science, CS, COB, IT, Engineering Syllabus"
+        "Computer Science CS COB IT syllabus",
+        "Computer Science CS COB IT give me syllabus",
+        "Computer Science CS COB IT Btech Syllabus",
+        "Computer Science CS COB IT first year syllabus",
+        "Computer Science CS COB IT Second Year syllabus",
+        "Computer Science CS COB IT Fourth Year syllabus",
+        "Computer Science CS COB IT Third Year syllabus",
+        "Computer Science CS COB IT Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/30/under-graduate/syll/1663932332.pdf"
       ]
     },
     {
-      "tag": "Electronics, ELE, syllabus",
+      "tag": "Electronics ELE syllabus",
       "patterns": [
-        "Electronics, ELE, syllabus",
-        "Electronics, ELE, give me syllabus",
-        "Electronics, ELE, Btech Syllabus",
-        "Electronics, ELE, first year syllabus",
-        "Electronics, ELE, Second Year syllabus",
-        "Electronics, ELE, Fourth Year syllabus",
-        "Electronics, ELE, Third Year syllabus",
-        "Electronics, ELE, Engineering Syllabus"
+        "Electronics ELE syllabus",
+        "Electronics ELE give me syllabus",
+        "Electronics ELE Btech Syllabus",
+        "Electronics ELE first year syllabus",
+        "Electronics ELE Second Year syllabus",
+        "Electronics ELE Fourth Year syllabus",
+        "Electronics ELE Third Year syllabus",
+        "Electronics ELE Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/32/under-graduate/syll/1689180796.pdf"
       ]
     },
     {
-      "tag": "Electrical, EE, syllabus",
+      "tag": "Electrical EE syllabus",
       "patterns": [
-        "Electrical, EE, syllabus",
-        "Electrical, EE, give me syllabus",
-        "Electrical, EE, Btech Syllabus",
-        "Electrical, EE, first year syllabus",
-        "Electrical, EE, Second Year syllabus",
-        "Electrical, EE, Fourth Year syllabus",
-        "Electrical, EE, Third Year syllabus",
-        "Electrical, EE, Engineering Syllabus"
+        "Electrical EE syllabus",
+        "Electrical EE give me syllabus",
+        "Electrical EE Btech Syllabus",
+        "Electrical EE first year syllabus",
+        "Electrical EE Second Year syllabus",
+        "Electrical EE Fourth Year syllabus",
+        "Electrical EE Third Year syllabus",
+        "Electrical EE Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/31/under-graduate/syll/1663860951.pdf"
       ]
     },
     {
-      "tag": "Mechanical, MEH, syllabus",
+      "tag": "Mechanical MEH syllabus",
       "patterns": [
-        "Mechanical, MEH, syllabus",
-        "Mechanical, MEH, give me syllabus",
-        "Mechanical, MEH, Btech Syllabus",
-        "Mechanical, MEH, first year syllabus",
-        "Mechanical, MEH, Second Year syllabus",
-        "Mechanical, MEH, Fourth Year syllabus",
-        "Mechanical, MEH, Third Year syllabus",
-        "Mechanical, MEH, Engineering Syllabus"
+        "Mechanical MEH syllabus",
+        "Mechanical MEH give me syllabus",
+        "Mechanical MEH Btech Syllabus",
+        "Mechanical MEH first year syllabus",
+        "Mechanical MEH Second Year syllabus",
+        "Mechanical MEH Fourth Year syllabus",
+        "Mechanical MEH Third Year syllabus",
+        "Mechanical MEH Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/34/under-graduate/syll/1702647248.pdf"
       ]
     },
     {
-      "tag": "Civil, CE, syllabus",
+      "tag": "Civil CE syllabus",
       "patterns": [
-        "Civil, CE, syllabus",
-        "Civil, CE, give me syllabus",
-        "Civil, CE, Btech Syllabus",
-        "Civil, CE, first year syllabus",
-        "Civil, CE, Second Year syllabus",
-        "Civil, CE, Fourth Year syllabus",
-        "Civil, CE, Third Year syllabus",
-        "Civil, CE, Engineering Syllabus"
+        "Civil CE syllabus",
+        "Civil CE give me syllabus",
+        "Civil CE Btech Syllabus",
+        "Civil CE first year syllabus",
+        "Civil CE Second Year syllabus",
+        "Civil CE Fourth Year syllabus",
+        "Civil CE Third Year syllabus",
+        "Civil CE Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/28/under-graduate/syll/1663578012.pdf"
       ]
     },
     {
-      "tag": "Chemical, CHC, syllabus",
+      "tag": "Chemical CHC syllabus",
       "patterns": [
-        "Chemical, CHC, syllabus",
-        "Chemical, CHC, give me syllabus",
-        "Chemical, CHC, Btech Syllabus",
-        "Chemical, CHC, first year syllabus",
-        "Chemical, CHC, Second Year syllabus",
-        "Chemical, CHC, Fourth Year syllabus",
-        "Chemical, CHC, Third Year syllabus",
-        "Chemical, CHC, Engineering Syllabus"
+        "Chemical CHC syllabus",
+        "Chemical CHC give me syllabus",
+        "Chemical CHC Btech Syllabus",
+        "Chemical CHC first year syllabus",
+        "Chemical CHC Second Year syllabus",
+        "Chemical CHC Fourth Year syllabus",
+        "Chemical CHC Third Year syllabus",
+        "Chemical CHC Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/29/under-graduate/syll/1666846869.pdf"
       ]
     },
     {
-      "tag": "Petrochemical, PKE, PKC,  Petrochemical, PKE, PKC, syllabus",
+      "tag": "Petrochemical PKE PKC syllabus",
       "patterns": [
-        "Petrochemical, PKE, PKC, syllabus",
-        "Petrochemical, PKE, PKC, give me syllabus",
-        "Petrochemical, PKE, PKC, Btech Syllabus",
-        "Petrochemical, PKE, PKC, first year syllabus",
-        "Petrochemical, PKE, PKC, Second Year syllabus",
-        "Petrochemical, PKE, PKC, Fourth Year syllabus",
-        "Petrochemical, PKE, PKC, Third Year syllabus",
-        "Petrochemical, PKE, PKC, Engineering Syllabus"
+        "Petrochemical PKE PKC syllabus",
+        "Petrochemical PKE PKC give me syllabus",
+        "Petrochemical PKE PKC Btech Syllabus",
+        "Petrochemical PKE PKC first year syllabus",
+        "Petrochemical PKE PKC Second Year syllabus",
+        "Petrochemical PKE PKC Fourth Year syllabus",
+        "Petrochemical PKE PKC Third Year syllabus",
+        "Petrochemical PKE PKC Engineering Syllabus"
       ],
       "responses": [
         "https://api.amu.ac.in/storage//file/33/under-graduate/syll/1690972192.pdf"
       ]
     },
     {
-      "tag": "Automobile, Electric Vehicle, syllabus",
+      "tag": "Automobile Electric Vehicle syllabus",
       "patterns": [
-        "Automobile, Electric Vehicle, syllabus",
-        "Automobile, Electric Vehicle, give me syllabus",
-        "Automobile, Electric Vehicle, Btech Syllabus",
-        "Automobile, Electric Vehicle, first year syllabus",
-        "Automobile, Electric Vehicle, Second Year syllabus",
-        "Automobile, Electric Vehicle, Fourth Year syllabus",
-        "Automobile, Electric Vehicle, Third Year syllabus",
-        "Automobile, Electric Vehicle, Engineering Syllabus"
+        "Automobile Electric Vehicle syllabus",
+        "Automobile Electric Vehicle give me syllabus",
+        "Automobile Electric Vehicle Btech Syllabus",
+        "Automobile Electric Vehicle first year syllabus",
+        "Automobile Electric Vehicle Second Year syllabus",
+        "Automobile Electric Vehicle Fourth Year syllabus",
+        "Automobile Electric Vehicle Third Year syllabus",
+        "Automobile Electric Vehicle Engineering Syllabus"
       ],
       "responses": [
-        ""
+        "Sorry! we can not process your request at the moment."
       ]
     },
     {
-      "tag": "Food Technology, FT, Food, syllabus",
+      "tag": "Food Technology FT Food syllabus",
       "patterns": [
-        "Food Technology, FT, Food, syllabus",
-        "Food Technology, FT, Food, give me syllabus",
-        "Food Technology, FT, Food, Btech Syllabus",
-        "Food Technology, FT, Food, first year syllabus",
-        "Food Technology, FT, Food, Second Year syllabus",
-        "Food Technology, FT, Food, Fourth Year syllabus",
-        "Food Technology, FT, Food, Third Year syllabus",
-        "Food Technology, FT, Food, Engineering Syllabus"
+        "Food Technology FT Food syllabus",
+        "Food Technology FT Food give me syllabus",
+        "Food Technology FT Food Btech Syllabus",
+        "Food Technology FT Food first year syllabus",
+        "Food Technology FT Food Second Year syllabus",
+        "Food Technology FT Food Fourth Year syllabus",
+        "Food Technology FT Food Third Year syllabus",
+        "Food Technology FT Food Engineering Syllabus"
       ],
       "responses": [
-        ""
+        "Sorry! we can not process your request at the moment."
       ]
     },
     
@@ -538,12 +548,12 @@
 
 
     {
-      "tag": "Artificial Intelligence, AI, Machine Learning, curriculum",
+      "tag": "Artificial Intelligence AI Machine Learning curriculum",
       "patterns": [
-        "Artificial Intelligence, AIB, AI, Machine learning, curriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, give me curriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, Btech curriculum",
-        "Artificial Intelligence, AIB, AI, Machine learning, Engineering curriculum"
+        "Artificial Intelligence AIB AI Machine learning curriculum",
+        "Artificial Intelligence AIB AI Machine learning give me curriculum",
+        "Artificial Intelligence AIB AI Machine learning Btech curriculum",
+        "Artificial Intelligence AIB AI Machine learning Engineering curriculum"
       ],
       "responses": [
         "\nfor 2021-22 enrolled: https://ctengg.amu.ac.in/course_structure/BTECH/AI_21_22.pdf \nfor 2023: enrolled https://ctengg.amu.ac.in/course_structure/BTECH/AI_23_99.pdf"
@@ -642,7 +652,7 @@
         "Automobile Engineering, AEB, AE,  Engineering curriculum"
       ],
       "responses": [
-        ""
+        "Sorry! we can not process your request at the moment."
       ]
     }
   ]
